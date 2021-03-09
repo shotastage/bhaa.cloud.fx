@@ -12,3 +12,6 @@ download_tarbal()
 }
 
 download_tarbal
+
+gcloud auth login
+gcloud config set project bhaa-253209
